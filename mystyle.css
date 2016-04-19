@@ -1,0 +1,138 @@
+ 
+body { font-family: arial, helvetica, sans-serif}
+
+h1   { text-align: center}
+
+h1,h2 { color: black }
+h2    {margin-top: 0.0 in; margin-bottom: 0.0in;}
+
+p     {color:#009900; font-style: bold;font-size: 120%;
+              margin-top: 0.25in; margin-left:1in;  }
+
+/* change password text boxes */
+
+#textboxsection3{
+ display:inline-block;
+ position:absolute;
+ left: 135px;
+ margin-left: 10px;
+
+ }
+
+
+ 
+ /* searching button */
+ #buttons{
+ display:inline-block;
+ padding-right:8px;
+ position:absolute;
+}
+
+}
+/* without searching button */
+#buttons2{
+display:inline-block;
+ position: relative;
+ padding-right:20px;
+ 
+ }
+/* without searching button right */
+.buttonsright {
+   display:inline-block;
+   position: absolute;
+   left: 90px;
+   padding-top:-15px;
+   
+}
+
+ /* log out button */
+ .right1 {
+    position: absolute;
+    right: 65px;
+  
+}
+/* go back button */
+ .right2 {
+    displany: inline-block;
+    position: absolute;
+    right: 120px;
+  
+}
+/* right text boxes */
+.right3 {
+    display:inline-block;
+    position: absolute;
+    right: 650px;
+  
+}
+/* left paper button */
+.right4 {
+    display: inline-block;
+	
+    position: absolute;
+    right: 1000px;
+  
+}
+
+/* check boxes */
+.right5 {
+     display:inline-block;
+    position: absolute;
+    right: 710px;
+     
+}
+
+/* upload button staff add */
+.right6 {
+    display: inline-block;
+    position: absolute;
+    right: 1150px;
+  
+}
+
+/* view database staff menu */
+.right7 {
+    position: fixed;
+    right: 1000px;
+  
+}
+/* database results table */
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    width: 2000px;
+}
+
+th {
+    text-align: center;
+	width :100px;	
+        
+}
+td {
+    text-align: center;
+    height: 50px;
+
+
+   
+}
+
+
+/* created by tag */
+h4 {
+  text-align: center;
+  font-size: 70%;
+  position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+  }
+
+
+
+
